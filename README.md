@@ -1,1 +1,1 @@
-# deployed Link [click here](https://muthu-assign-mentor.netlify.app/)
+# deployed Link [click here](https://mentor-manager.netlify.app/)
